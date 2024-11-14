@@ -31,3 +31,4 @@ GolfArena é uma plataforma completa para competições de golfe, permitindo que
 - Banco de dados Room.
 - Será utilizado o mapa para mostrar o endereço da localidade do campeonato.
 - Será utilizado notificação para alertar o dia e horario do começo do campeonato.
+- Será utilizado a camera, para capturar imagens de usuário.
